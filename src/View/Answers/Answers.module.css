@@ -1,0 +1,30 @@
+.button {
+  border-bottom: solid 2px hsl(240, 5%, 91%);
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(237, 12%, 33%);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 20em;
+  text-align: left;
+}
+
+.button:hover {
+  color: hsl(14, 88%, 65%);
+}
+
+.button:focus {
+  font-weight: 700;
+}
+
+.arrow {
+  margin-left: 13em;
+}
+
+.answer {
+  color: hsl(240, 6%, 50%);
+}

@@ -1,0 +1,9 @@
+.box {
+  display: flex;
+  border-radius: 10px;
+  height: 40em;
+  width: 65em;
+  box-sizing: border-box;
+  background-color: hsl(0, 0%, 100%);
+  margin: 30px 90px;
+}
